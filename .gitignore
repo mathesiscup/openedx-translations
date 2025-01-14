@@ -9,3 +9,6 @@ htmlcov
 
 # IntelliJ IDEA
 .idea/
+
+#Dagg
+*_prev
