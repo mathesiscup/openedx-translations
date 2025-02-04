@@ -134,6 +134,13 @@ git:
     source_file: translations/frontend-app-authn/src/i18n/transifex_input.json
     translation_files_expression: 'translations/frontend-app-authn/src/i18n/messages/<lang>.json'
 
+  # frontend-app-authoring
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: en
+    source_file: translations/frontend-app-authoring/src/i18n/transifex_input.json
+    translation_files_expression: 'translations/frontend-app-authoring/src/i18n/messages/<lang>.json'
+
   # frontend-app-communications
   - filter_type: file
     file_format: KEYVALUEJSON
