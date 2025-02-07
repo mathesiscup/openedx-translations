@@ -26884,6 +26884,8 @@ msgid "Verify For {course_name}"
 msgstr "Επαλήθευση για {course_name}"
 
 #: lms/templates/verify_student/pay_and_verify.html:20
+#: lms/templates/courseware/course_about.html:196
+#: lms/templates/courseware/course_about.html:201
 msgid "Enroll In {course_name}"
 msgstr "Εγγραφείτε στο {course_name}"
 
