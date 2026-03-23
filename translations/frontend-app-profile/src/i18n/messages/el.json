@@ -1,5 +1,6 @@
 {
   "profile.page.title": "Προσωπική σελίδα | {siteName}",
+  "profile.age.cannotShare": "Δεν είναι δυνατή η κοινοποίηση του προφίλ σας.",
   "profile.age.details": "Για να είναι ορατό το προφίλ σας σε άλλους φοιτητές του {siteName}, θα πρέπει να βεβαιώσετε ότι είστε τουλάχιστον 13 ετών.",
   "profile.age.set.date": "Συμπληρώστε έτος γέννησης ",
   "profile.datejoined.member.since": "Mέλος από το {year}",

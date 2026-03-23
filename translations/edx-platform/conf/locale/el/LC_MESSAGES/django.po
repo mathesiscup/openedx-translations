@@ -2750,7 +2750,7 @@ msgstr "Ενεργοποιήστε τον λογαριασμό σας"
 #: common/templates/student/edx_ace/accountactivation/email/body.txt:6
 #, python-format
 msgid "Enjoy learning with %(platform_name)s."
-msgstr "Ξεκινήστε ένα ταξίδι γνώστης στο %(platform_name)s."
+msgstr "Ξεκινήστε ένα ταξίδι γνώσης στο %(platform_name)s."
 
 #: common/templates/student/edx_ace/accountactivation/email/body.html:50
 #, python-format, python-brace-format
@@ -2770,8 +2770,8 @@ msgid ""
 "This email message was automatically sent by %(lms_url)s because someone "
 "attempted to create an account on %(platform_name)s using this email address."
 msgstr ""
-"Το email αυτό στάλθηκε αυτόματα από το%(lms_url)s, γιατί κάποιος προσπάθησε "
-"να δημιουργήσει λογαριασμό στο%(platform_name)s, χρησιμοποιώντας τη "
+"Το email αυτό στάλθηκε αυτόματα από το %(lms_url)s, γιατί κάποιος προσπάθησε "
+"να δημιουργήσει λογαριασμό στο %(platform_name)s, χρησιμοποιώντας τη "
 "συγκεκριμένη διεύθυνση ηλεκτρονικού ταχυδρομείου."
 
 #: common/templates/student/edx_ace/accountactivation/email/body.txt:2
@@ -2799,7 +2799,7 @@ msgstr ""
 #, python-format
 msgid "Action Required: Activate your %(platform_name)s account"
 msgstr ""
-"Απαιτούμενη Ενέργεια: Ενεργοποιήστε το λογαριασμό σας στο %(platform_name)s"
+"Απαιτούμενη Ενέργεια: Ενεργοποιήστε τον λογαριασμό σας στο %(platform_name)s"
 
 #: common/templates/student/edx_ace/accountrecovery/email/body.html:10
 #: common/templates/student/edx_ace/accountrecovery/email/body.html:39
@@ -10058,7 +10058,7 @@ msgid ""
 "user account at %(platform_name)s."
 msgstr ""
 "Έχετε λάβει αυτό το email επειδή ζητήσατε την αλλαγή του κωδικού σας "
-"στο%(platform_name)s."
+"στο %(platform_name)s."
 
 #: openedx/core/djangoapps/user_authn/templates/user_authn/edx_ace/passwordreset/email/body.html:22
 #: openedx/core/djangoapps/user_authn/templates/user_authn/edx_ace/passwordreset/email/body.txt:5
