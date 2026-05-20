@@ -54,5 +54,12 @@
   "profile.formcontrols.button.saving": "Αποθήκευση σε εξέλιξη",
   "profile.formcontrols.button.saved": "Αποθηκεύτηκε",
   "profile.visibility.who.just.me": "Μόνο εγώ",
-  "profile.visibility.who.everyone": "Όλοι στο {siteName}"
+  "profile.visibility.who.everyone": "Όλοι στο {siteName}",
+  "profile.your.certificates": "Οι βεβαιώσεις σας",
+  "profile.certificates.description": "Οι πληροφορίες των αρχείων μαθητών σας είναι ορατές μόνο σε εσάς. Μόνο το όνομα χρήστη και η εικόνα του προφίλ σας είναι ορατά στους άλλους στο {siteName}.",
+  "profile.username.tooltip": "To όνομα με το οποίο εμφανίζεστε. Το ψευδώνυμο δεν μπορεί να αλλαχθεί.",
+  "profile.name.tooltip": "Το ονοματεπώνυμό σας, όπως εμφανίζεται στις βεβαιώσεις",
+  "profile.name.redirect": "Aλλάξτε το ονοματεπώνυμό σας στη σελίδα του λογαριασμού σας",
+  "profile.certificate.uuid": "Αριθμός βεβαίωσης {certificate_uuid}",
+  "profile.profileavatar.tooltip.upload": "Μεταφόρτωση φωτογραφίας"
 }

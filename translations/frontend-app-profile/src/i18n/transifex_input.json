@@ -54,5 +54,11 @@
   "profile.formcontrols.button.saving": "Saving",
   "profile.formcontrols.button.saved": "Saved",
   "profile.visibility.who.just.me": "Just me",
-  "profile.visibility.who.everyone": "Everyone on {siteName}"
+  "profile.visibility.who.everyone": "Everyone on {siteName}",
+  "profile.your.certificates": "Your certificates",
+  "profile.certificates.description": "Your learner records information is only visible to you. Only your username and profile image are visible to others on {siteName}.",
+  "profile.username.tooltip": "The name that identifies you on edX. You cannot change your username.",
+  "profile.name.tooltip": "The name that is used for ID verification and that appears on your certificates",
+  "profile.name.redirect": "Edit full name from the Accounts page",
+  "profile.certificate.uuid": "Credential ID {certificate_uuid}"
 }
